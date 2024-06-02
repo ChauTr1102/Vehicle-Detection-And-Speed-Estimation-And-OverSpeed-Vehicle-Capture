@@ -69,8 +69,7 @@ Despite the challenges posed by the bustling and high-traffic conditions of Hoa 
 - [@Nguyen Ngoc Hieu](https://github.com/Bojjoo)
 - [@Trinh Minh Chau](https://github.com/ChauTr1102)
 - [@Ngo Duc Manh](https://github.com/zerfop)
-
-
+- [@Le Nguyen Thanh Binh](https://github.com/BinhLNT)
 ## 🛠 Skills
 Deep Learning, Python, EasyOCR, YoLov8, Optimization
 
